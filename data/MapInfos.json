@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":3,"expanded":false,"name":"お試し１","order":9,"parentId":0,"scrollX":532,"scrollY":411},
+{"id":4,"expanded":false,"name":"岩の洞窟","order":3,"parentId":0,"scrollX":532,"scrollY":763},
+{"id":5,"expanded":false,"name":"お試し２","order":10,"parentId":0,"scrollX":540,"scrollY":305},
+{"id":6,"expanded":false,"name":"遺跡入口","order":4,"parentId":0,"scrollX":532,"scrollY":663},
+{"id":7,"expanded":false,"name":"遺跡１","order":5,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":8,"expanded":false,"name":"遺跡２","order":6,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":9,"expanded":false,"name":"遺跡３","order":7,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":10,"expanded":false,"name":"遺跡地下","order":8,"parentId":0,"scrollX":532,"scrollY":319}
+]
